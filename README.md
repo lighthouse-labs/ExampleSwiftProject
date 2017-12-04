@@ -15,6 +15,7 @@ Download this project using the `Download Zip` button in github.
 
 After downloading and unzipping the skeleton project, several pieces should be changed to unique values such that they are relevant to the tutorial under development, including:
 
+* Open the project in Xcode
 * Select project in project navigator and rename the project
 * Xcode will prompt to rename targets and other metafiles as well - select all of them
 * Change the bundle identifier
