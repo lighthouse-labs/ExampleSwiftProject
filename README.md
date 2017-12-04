@@ -20,6 +20,7 @@ After downloading and unzipping the skeleton project, several pieces should be c
 * Change the bundle identifier
 * Change the scheme name
 * Rename the top-level directory (the one that contains the .xcodeproj file)
+* Update the `README.md` file to reflect the assignment.
 
 ## Credits
 
